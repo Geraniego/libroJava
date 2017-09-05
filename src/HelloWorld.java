@@ -7,7 +7,9 @@ public class HelloWorld {
 	public static void main(String[] args) {
 		System.out.println("HOLA MUNDO!!");
 		
-		String [] alumnos = {"Arkaitz",
+		String [] alumnos = {
+				"Ander",
+				"Arkaitz",
 				"Erlantz",
 				"Fran", 
 				"Christian",
