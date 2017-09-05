@@ -9,6 +9,8 @@ import java.text.NumberFormat;
 public class Variables {
 	public static void main(String[] args) {
 		/*
+		 * 
+		 *HOLA ANDER TQM
 		 * System.out.println("Ejercicio con Variables");
 		 * System.out.println("Enteros :");
 		 * 
