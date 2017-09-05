@@ -110,6 +110,7 @@ public class Variables {
 		System.out.println("Con tick y Cross pero los caracteres almacenados en un Array usando la funcion dameSimbolo()");
 		System.out.println("CARACTER----DIGITO----LETRA----MAYUS---MINUSCULA");
 		
+		
 		for (int i = 0; i < caracteres.length; i++) {
 			System.out.println("-------" + caracteres[i] + "------" 
 					+(dameSimbolo(Character.isDigit(caracteres[i])))+ "------" 
@@ -127,6 +128,7 @@ public class Variables {
 	 * @return 
 	 * 
 	 */
+	/*Metodo que nos devuelve un char de Tick o un Cross*/
 	public static char dameSimbolo(boolean valor) {
 		char c = '\u2714';
 		char n = '\u2716';
